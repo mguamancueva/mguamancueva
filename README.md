@@ -17,4 +17,4 @@ My long-term goal is to apply advanced numerical methods and high-fidelity fluid
 * **Documentation & Workflow:** LaTeX, Git, Linux/HPC
 
 ---
-📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/mateoguamancueva)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mateoguamancueva)
